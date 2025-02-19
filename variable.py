@@ -15,5 +15,5 @@ y=2
 print(x+y)
 product = x*y
 print(product)
-print("The poduct of",x,"and",y,"is",product)
+print("The poduct of",x,",and", y, "is",product)
 
